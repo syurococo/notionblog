@@ -48,13 +48,13 @@ const RootPage = () => (
         <p>
           Twitter…旅ノウハウ/日本への疑問/日記{' '}
           <Link href="https://twitter.com/peppermint_sgr">
-            Twitterへのリンク
+            Twitter
           </Link>
         </p>
         <p>
           YouTube…近況報告用、普通の旅動画{' '}
           <Link href="http://www.youtube.com/@user-gh2fe4kz8m">
-            YouTubeへのリンク
+            YouTube
           </Link>
         </p>
       </div>
