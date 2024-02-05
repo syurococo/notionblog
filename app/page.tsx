@@ -43,16 +43,16 @@ const RootPage = () => (
     <div className={styles.container}>
       <div>
         <h2>ようこそ</h2>
-        <p>日本脱出後に書き始めたブログです。TwitterやYouTubeでは出せない内容をこちらに書いています。</p>
+        <p>日本脱出後に書き始めたブログです。TwitterやYouTubeでは出せない内容がメイン。</p>
         <p>日本で色々納得いかない人は参考にしてね。</p>
         <p>
-          Twitterでは旅のノウハウや日本への疑問や日記などを発信しています。{' '}
+          Twitter…旅ノウハウ/日本への疑問/日記{' '}
           <Link href="https://twitter.com/peppermint_sgr">
             Twitterへのリンク
           </Link>
         </p>
         <p>
-          YouTubeでは近況報告用の普通の旅動画を投稿しています。{' '}
+          YouTube…近況報告用、普通の旅動画{' '}
           <Link href="http://www.youtube.com/@user-gh2fe4kz8m">
             YouTubeへのリンク
           </Link>
