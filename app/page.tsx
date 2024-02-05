@@ -43,7 +43,7 @@ const RootPage = () => (
     <div className={styles.container}>
       <div>
         <h2>ようこそ</h2>
-        <p>日本脱出後に書き始めたブログです。TwitterやYouTubeには書けない内容をこちらに書いています。</p>
+        <p>日本脱出後に書き始めたブログです。TwitterやYouTubeでは出せない内容をこちらに書いています。</p>
         <p>日本で色々納得いかない人は参考にしてね。</p>
         <p>
           Twitterでは旅のノウハウや日本への疑問や日記などを発信しています。{' '}
