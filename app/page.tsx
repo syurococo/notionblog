@@ -42,13 +42,19 @@ const RootPage = () => (
     <GoogleAnalytics pageTitle={NEXT_PUBLIC_SITE_TITLE} />
     <div className={styles.container}>
       <div>
-        <h2>Welcome!</h2>
-        <p>Your easy-notion-blog deployed successfully!</p>
-        <p>Have fun!</p>
+        <h2>ようこそ</h2>
+        <p>日本脱出後に書き始めたブログです。TwitterやYouTubeには書けない内容をこちらに書いています。</p>
+        <p>日本で色々納得いかない人は参考にしてね。</p>
         <p>
-          easy-notion-blog powered by{' '}
-          <Link href="https://github.com/otoyo/easy-notion-blog">
-            otoyo/easy-notion-blog
+          Twitterでは旅のノウハウや日本への疑問や日記などを発信しています。{' '}
+          <Link href="https://twitter.com/peppermint_sgr">
+            Twitterへのリンク
+          </Link>
+        </p>
+        <p>
+          YouTubeでは近況報告用の普通の旅動画を投稿しています。{' '}
+          <Link href="http://www.youtube.com/@user-gh2fe4kz8m">
+            YouTubeへのリンク
           </Link>
         </p>
       </div>
