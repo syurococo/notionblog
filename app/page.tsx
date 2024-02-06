@@ -46,16 +46,16 @@ const RootPage = () => (
         <p>日本脱出後に書き始めたブログです。TwitterやYouTubeでは出せない内容がメイン。</p>
         <p>日本で色々納得いかない人は参考にしてね。</p>
         <p>
-          Twitter…旅ノウハウ/日本への疑問/日記{' '}
           <Link href="https://twitter.com/peppermint_sgr">
             Twitter
           </Link>
+          …旅ノウハウ/日本への疑問/日記{' '}
         </p>
         <p>
-          YouTube…近況報告用、普通の旅動画{' '}
           <Link href="http://www.youtube.com/@user-gh2fe4kz8m">
             YouTube
           </Link>
+          …近況報告用、普通の旅動画{' '}
         </p>
       </div>
     </div>
